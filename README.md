@@ -50,5 +50,5 @@ The website allows users to view company information, explore services and fleet
    C:\xampp\htdocs\
 4. Start Apache from XAMPP Control Panel
 5. Open browser and go to:
-   http://localhost/cahuffeur
+   http://localhost/chauffeur-main/chauffeur-main/
 
