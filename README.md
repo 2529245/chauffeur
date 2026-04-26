@@ -52,3 +52,6 @@ The website allows users to view company information, explore services and fleet
 5. Open browser and go to:
    http://localhost/chauffeur-main/chauffeur-main/
 
+## To download from Github
+https://github.com/2529245/chauffeur.git
+
